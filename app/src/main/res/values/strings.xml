@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab 4.4 Network</string>
+    <string name="action_settings">Settings</string>
+    <string name="add" />
+    <string name="code" />
+    <string name="title" />
+    <string name="credit" />
+    <string name="save" />
+    <string name="reset" />
+</resources>
